@@ -1,0 +1,4 @@
+Glob.js
+=======
+
+Glob implement.
